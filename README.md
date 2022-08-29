@@ -1,2 +1,2 @@
 # someday
-Homepage for reamspublisher.com
+Homepage for [reamspublisher.com](https://reamspublisher.com).
